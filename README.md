@@ -21,7 +21,7 @@ Fork the repo then clone your own copy.
 
 Download a copy of the repository by clicking "Clone or Download" then "Download Zip".
 
-![alt text](https://github.com/icon48.png "How to Download Smart Plant Raspberry pi repo")
+![alt text](https://raw.githubusercontent.com/kweaver00/smart-plant-raspberry-pi-app/not-required-for-download/imgs/downloading.png "How to Download Smart Plant Raspberry pi repo")
 
 
 ## Installing
