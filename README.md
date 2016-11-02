@@ -26,10 +26,40 @@ Download a copy of the repository by clicking "Clone or Download" then "Download
 
 ## Installing
 
+### I do have Python
+
+Then you are all setup! We are using Python3
+
+### I don't know if I have Python
+
+Run the following command in the terminal/command line:
+```
+python -V
+```
+
+This will return your current Python version.
+
+
+### I don't have Python
+
+You can download Python on the [Python.org](https://www.python.org/downloads/) website.
+
 ## Setting up
+
+To add
+- Creating an account on SmartIoT
+- Creating a plant on SmartIoT
+- Adding the API Key to the Python file
 
 ## Running
 
+To add
+- Running the file
+- Expected output
+
 ## Other
 
+To add
+- Possible Known Errors
+- Understanding range
 
