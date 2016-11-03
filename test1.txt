@@ -1,0 +1,434 @@
+1478119104.14 0.147403001785
+Not enough water for your plants to survive! Please water now.
+1478119105.34 0.133912086487
+Not enough water for your plants to survive! Please water now.
+1478119106.51 0.126276016235
+Not enough water for your plants to survive! Please water now.
+1478119107.67 0.124935865402
+Not enough water for your plants to survive! Please water now.
+1478119108.83 0.125658988953
+Not enough water for your plants to survive! Please water now.
+1478119110.0 0.125904083252
+Not enough water for your plants to survive! Please water now.
+1478119111.17 0.125138998032
+Not enough water for your plants to survive! Please water now.
+1478119112.33 0.110184907913
+Not enough water for your plants to survive! Please water now.
+1478119113.48 0.142242908478
+Not enough water for your plants to survive! Please water now.
+1478119114.66 0.134037971497
+Not enough water for your plants to survive! Please water now.
+1478119115.82 0.126415967941
+Not enough water for your plants to survive! Please water now.
+1478119116.97 0.12428188324
+Not enough water for your plants to survive! Please water now.
+1478119118.13 0.108932971954
+Not enough water for your plants to survive! Please water now.
+1478119119.28 0.124137878418
+Not enough water for your plants to survive! Please water now.
+1478119120.45 0.110650062561
+Not enough water for your plants to survive! Please water now.
+1478119121.58 0.12415599823
+Not enough water for your plants to survive! Please water now.
+1478119122.73 0.110114812851
+Not enough water for your plants to survive! Please water now.
+1478119123.88 0.108904123306
+Not enough water for your plants to survive! Please water now.
+1478119125.05 0.114346981049
+Not enough water for your plants to survive! Please water now.
+1478119126.21 0.116138219833
+Not enough water for your plants to survive! Please water now.
+1478119127.38 0.115034818649
+Not enough water for your plants to survive! Please water now.
+1478119128.55 0.115240812302
+Not enough water for your plants to survive! Please water now.
+1478119129.71 0.116828918457
+Not enough water for your plants to survive! Please water now.
+1478119130.86 0.119036912918
+Not enough water for your plants to survive! Please water now.
+1478119132.03 0.115113019943
+Not enough water for your plants to survive! Please water now.
+1478119133.2 0.131054878235
+Not enough water for your plants to survive! Please water now.
+1478119134.38 0.13175702095
+Not enough water for your plants to survive! Please water now.
+1478119135.56 0.130753040314
+Not enough water for your plants to survive! Please water now.
+1478119136.73 0.14689207077
+Not enough water for your plants to survive! Please water now.
+1478119137.91 0.202517032623
+Not enough water for your plants to survive! Please water now.
+1478119139.14 0.166697025299
+Not enough water for your plants to survive! Please water now.
+1478119140.38 0.147346019745
+Not enough water for your plants to survive! Please water now.
+1478119141.58 0.147113084793
+Not enough water for your plants to survive! Please water now.
+1478119142.78 0.146993875504
+Not enough water for your plants to survive! Please water now.
+1478119143.96 0.152105093002
+Not enough water for your plants to survive! Please water now.
+1478119145.16 0.147610902786
+Not enough water for your plants to survive! Please water now.
+1478119146.37 0.16370010376
+Not enough water for your plants to survive! Please water now.
+1478119147.61 0.156677007675
+Not enough water for your plants to survive! Please water now.
+1478119148.85 0.159673929214
+Not enough water for your plants to survive! Please water now.
+1478119150.12 0.161821842194
+Not enough water for your plants to survive! Please water now.
+1478119151.38 0.163031101227
+Not enough water for your plants to survive! Please water now.
+1478119152.63 0.167510032654
+Not enough water for your plants to survive! Please water now.
+1478119154.11 0.169996023178
+Not enough water for your plants to survive! Please water now.
+1478119155.49 0.257562875748
+Not enough water for your plants to survive! Please water now.
+1478119156.78 0.151371955872
+Not enough water for your plants to survive! Please water now.
+1478119157.99 0.126932144165
+Not enough water for your plants to survive! Please water now.
+1478119159.17 0.139631986618
+Not enough water for your plants to survive! Please water now.
+1478119160.37 0.140975952148
+Not enough water for your plants to survive! Please water now.
+1478119161.57 0.140449047089
+Not enough water for your plants to survive! Please water now.
+1478119162.77 0.145848989487
+Not enough water for your plants to survive! Please water now.
+1478119163.97 0.141644954681
+Not enough water for your plants to survive! Please water now.
+1478119165.17 0.145362138748
+Not enough water for your plants to survive! Please water now.
+1478119166.37 0.143503904343
+Not enough water for your plants to survive! Please water now.
+1478119167.57 0.210073947906
+Not enough water for your plants to survive! Please water now.
+1478119168.82 0.131980895996
+Not enough water for your plants to survive! Please water now.
+1478119169.98 0.115462064743
+Not enough water for your plants to survive! Please water now.
+1478119171.16 0.109941005707
+Not enough water for your plants to survive! Please water now.
+1478119172.32 0.108380794525
+Not enough water for your plants to survive! Please water now.
+1478119173.49 0.109233856201
+Not enough water for your plants to survive! Please water now.
+1478119174.66 0.108433008194
+Not enough water for your plants to survive! Please water now.
+1478119175.8 0.116389036179
+Not enough water for your plants to survive! Please water now.
+1478119176.98 0.108824014664
+Not enough water for your plants to survive! Please water now.
+1478119178.12 0.117115020752
+Not enough water for your plants to survive! Please water now.
+1478119179.27 0.115842103958
+Not enough water for your plants to survive! Please water now.
+1478119180.42 0.116530179977
+Not enough water for your plants to survive! Please water now.
+1478119181.59 0.126070976257
+Not enough water for your plants to survive! Please water now.
+1478119182.75 0.366937875748
+Not enough water for your plants to survive! Please water now.
+1478119184.2 0.255354881287
+Not enough water for your plants to survive! Please water now.
+1478119185.49 0.282773017883
+Not enough water for your plants to survive! Please water now.
+1478119186.86 0.910101175308
+Not enough water for your plants to survive! Please water now.
+1478119188.85 0.508816003799
+Not enough water for your plants to survive! Please water now.
+1478119190.41 0.227151870728
+Not enough water for your plants to survive! Please water now.
+1478119191.7 0.193297147751
+Not enough water for your plants to survive! Please water now.
+1478119192.96 0.23060297966
+Not enough water for your plants to survive! Please water now.
+1478119194.22 0.616469144821
+Not enough water for your plants to survive! Please water now.
+1478119195.9 0.25975894928
+Not enough water for your plants to survive! Please water now.
+1478119197.26 0.230255126953
+Not enough water for your plants to survive! Please water now.
+1478119198.55 0.676189184189
+Not enough water for your plants to survive! Please water now.
+1478119200.31 0.196010828018
+Not enough water for your plants to survive! Please water now.
+1478119201.58 0.199033975601
+Not enough water for your plants to survive! Please water now.
+1478119202.84 0.251381874084
+Not enough water for your plants to survive! Please water now.
+1478119204.15 0.225107192993
+Not enough water for your plants to survive! Please water now.
+1478119205.43 0.209724903107
+Not enough water for your plants to survive! Please water now.
+1478119206.7 0.308567047119
+Not enough water for your plants to survive! Please water now.
+1478119208.07 0.242838859558
+Not enough water for your plants to survive! Please water now.
+1478119209.36 0.176413059235
+Not enough water for your plants to survive! Please water now.
+1478119210.63 0.748392105103
+Not enough water for your plants to survive! Please water now.
+1478119212.43 0.145685911179
+Not enough water for your plants to survive! Please water now.
+1478119213.63 0.14785695076
+Not enough water for your plants to survive! Please water now.
+1478119214.83 0.14613199234
+Not enough water for your plants to survive! Please water now.
+1478119216.02 0.167722940445
+Not enough water for your plants to survive! Please water now.
+1478119217.27 0.159688949585
+Not enough water for your plants to survive! Please water now.
+1478119218.46 0.168356895447
+Not enough water for your plants to survive! Please water now.
+1478119219.71 0.169682979584
+Not enough water for your plants to survive! Please water now.
+1478119220.98 0.165819883347
+Not enough water for your plants to survive! Please water now.
+1478119222.2 0.162432909012
+Not enough water for your plants to survive! Please water now.
+1478119223.39 0.183079004288
+Not enough water for your plants to survive! Please water now.
+1478119224.64 0.174645900726
+Not enough water for your plants to survive! Please water now.
+1478119225.9 0.160013914108
+Not enough water for your plants to survive! Please water now.
+1478119227.12 0.161484956741
+Not enough water for your plants to survive! Please water now.
+1478119228.38 0.253821849823
+Not enough water for your plants to survive! Please water now.
+1478119229.66 0.167164087296
+Not enough water for your plants to survive! Please water now.
+1478119230.88 0.14622592926
+Not enough water for your plants to survive! Please water now.
+1478119232.08 0.179851055145
+Not enough water for your plants to survive! Please water now.
+1478119233.34 2.02699494362
+Not enough water for your plants to survive! Please water now.
+1478119236.42 0.414963006973
+Not enough water for your plants to survive! Please water now.
+1478119237.88 0.780655860901
+Not enough water for your plants to survive! Please water now.
+1478119239.74 7.29064893723
+Not enough water for your plants to survive! Please water now.
+1478119248.09 0.644505023956
+Not enough water for your plants to survive! Please water now.
+1478119249.79 1.16353201866
+Not enough water for your plants to survive! Please water now.
+1478119252.05 1.18115210533
+Not enough water for your plants to survive! Please water now.
+1478119254.3 0.303628921509
+Not enough water for your plants to survive! Please water now.
+1478119255.66 0.207790136337
+Not enough water for your plants to survive! Please water now.
+1478119256.93 7.47871804237
+Not enough water for your plants to survive! Please water now.
+1478119265.44 0.184041976929
+Not enough water for your plants to survive! Please water now.
+1478119266.7 0.390161037445
+Not enough water for your plants to survive! Please water now.
+1478119268.16 0.193367004395
+Not enough water for your plants to survive! Please water now.
+1478119269.44 0.181602954865
+Not enough water for your plants to survive! Please water now.
+1478119270.7 0.154386043549
+Not enough water for your plants to survive! Please water now.
+1478119271.91 0.162910938263
+Not enough water for your plants to survive! Please water now.
+1478119273.15 0.39444899559
+Not enough water for your plants to survive! Please water now.
+1478119274.58 0.224170207977
+Not enough water for your plants to survive! Please water now.
+1478119275.84 0.199892044067
+Not enough water for your plants to survive! Please water now.
+1478119277.1 0.174371957779
+Not enough water for your plants to survive! Please water now.
+1478119278.36 0.265221834183
+Not enough water for your plants to survive! Please water now.
+1478119279.7 0.893162965775
+Not enough water for your plants to survive! Please water now.
+1478119281.67 0.19421005249
+Not enough water for your plants to survive! Please water now.
+1478119282.93 0.164879083633
+Not enough water for your plants to survive! Please water now.
+1478119284.15 2.07395219803
+Not enough water for your plants to survive! Please water now.
+1478119287.29 0.60936999321
+Not enough water for your plants to survive! Please water now.
+1478119288.95 0.37664604187
+Not enough water for your plants to survive! Please water now.
+1478119290.42 0.128266811371
+Not enough water for your plants to survive! Please water now.
+1478119291.6 1.92765808105
+Not enough water for your plants to survive! Please water now.
+1478119294.59 0.175235033035
+Not enough water for your plants to survive! Please water now.
+1478119295.85 0.31343793869
+Not enough water for your plants to survive! Please water now.
+1478119297.22 0.174783945084
+Not enough water for your plants to survive! Please water now.
+1478119298.49 9.01551008224
+Not enough water for your plants to survive! Please water now.
+1478119308.6 6.92940187454
+Not enough water for your plants to survive! Please water now.
+1478119316.6 1.5688560009
+Not enough water for your plants to survive! Please water now.
+
+>>> ================================ RESTART ================================
+>>> 
+1478119378.22 24.8184869289
+1478119404.09 0.832184076309
+Not enough water for your plants to survive! Please water now.
+1478119405.98 0.10051202774
+Not enough water for your plants to survive! Please water now.
+1478119407.15 0.100481987
+Not enough water for your plants to survive! Please water now.
+1478119408.31 0.100433111191
+Not enough water for your plants to survive! Please water now.
+1478119409.45 0.100420951843
+Not enough water for your plants to survive! Please water now.
+1478119410.58 0.100479125977
+Not enough water for your plants to survive! Please water now.
+1478119411.75 0.100468873978
+Not enough water for your plants to survive! Please water now.
+1478119412.91 0.100435972214
+Not enough water for your plants to survive! Please water now.
+1478119414.05 0.100420951843
+Not enough water for your plants to survive! Please water now.
+1478119415.19 5.33949494362
+Not enough water for your plants to survive! Please water now.
+1478119421.59 0.100481987
+Not enough water for your plants to survive! Please water now.
+1478119422.75 0.10044503212
+Not enough water for your plants to survive! Please water now.
+1478119423.89 0.100420951843
+Not enough water for your plants to survive! Please water now.
+1478119425.03 0.100477933884
+Not enough water for your plants to survive! Please water now.
+1478119426.19 0.100488901138
+Not enough water for your plants to survive! Please water now.
+1478119427.35 0.100907087326
+Not enough water for your plants to survive! Please water now.
+1478119428.51 0.100479841232
+Not enough water for your plants to survive! Please water now.
+1478119429.68 0.100427865982
+Not enough water for your plants to survive! Please water now.
+1478119430.81 0.100482940674
+Not enough water for your plants to survive! Please water now.
+1478119431.97 0.100488185883
+Not enough water for your plants to survive! Please water now.
+1478119433.13 0.100455999374
+Not enough water for your plants to survive! Please water now.
+1478119434.27 0.100471019745
+Not enough water for your plants to survive! Please water now.
+1478119435.43 0.100474834442
+Not enough water for your plants to survive! Please water now.
+1478119436.59 0.100459098816
+Not enough water for your plants to survive! Please water now.
+1478119437.73 0.100482940674
+Not enough water for your plants to survive! Please water now.
+1478119438.89 0.100440979004
+Not enough water for your plants to survive! Please water now.
+1478119440.05 0.10040307045
+Not enough water for your plants to survive! Please water now.
+1478119441.21 0.100397109985
+Not enough water for your plants to survive! Please water now.
+1478119442.37 0.100311994553
+Not enough water for your plants to survive! Please water now.
+1478119443.51 0.100369930267
+Not enough water for your plants to survive! Please water now.
+1478119444.67 0.100291967392
+Not enough water for your plants to survive! Please water now.
+1478119445.83 0.100273132324
+Not enough water for your plants to survive! Please water now.
+1478119446.99 0.100306034088
+Not enough water for your plants to survive! Please water now.
+1478119448.15 0.100258827209
+Not enough water for your plants to survive! Please water now.
+1478119449.31 0.100299835205
+Not enough water for your plants to survive! Please water now.
+1478119450.47 0.100326061249
+Not enough water for your plants to survive! Please water now.
+1478119451.63 0.100244998932
+Not enough water for your plants to survive! Please water now.
+1478119452.77 0.100289821625
+Not enough water for your plants to survive! Please water now.
+1478119453.93 0.100276947021
+Not enough water for your plants to survive! Please water now.
+1478119455.09 0.100264072418
+Not enough water for your plants to survive! Please water now.
+1478119456.25 0.100247144699
+Not enough water for your plants to survive! Please water now.
+1478119457.41 0.100239992142
+Not enough water for your plants to survive! Please water now.
+1478119458.57 0.100203037262
+Not enough water for your plants to survive! Please water now.
+1478119459.71 0.100256919861
+Not enough water for your plants to survive! Please water now.
+1478119460.87 0.100255012512
+Not enough water for your plants to survive! Please water now.
+1478119462.03 0.100263118744
+Not enough water for your plants to survive! Please water now.
+1478119463.2 0.100239992142
+Not enough water for your plants to survive! Please water now.
+1478119464.36 0.100234031677
+Not enough water for your plants to survive! Please water now.
+1478119465.53 0.100258111954
+Not enough water for your plants to survive! Please water now.
+1478119466.69 0.100239992142
+Not enough water for your plants to survive! Please water now.
+1478119467.85 0.100259065628
+Not enough water for your plants to survive! Please water now.
+1478119469.02 0.100233078003
+Not enough water for your plants to survive! Please water now.
+1478119470.18 0.100259065628
+Not enough water for your plants to survive! Please water now.
+1478119471.35 0.100240945816
+Not enough water for your plants to survive! Please water now.
+1478119472.51 0.100764989853
+Not enough water for your plants to survive! Please water now.
+1478119473.65 0.100196838379
+Not enough water for your plants to survive! Please water now.
+1478119474.79 0.100213050842
+Not enough water for your plants to survive! Please water now.
+1478119475.95 0.100257873535
+Not enough water for your plants to survive! Please water now.
+1478119477.11 0.100214958191
+Not enough water for your plants to survive! Please water now.
+1478119478.25 0.100249052048
+Not enough water for your plants to survive! Please water now.
+1478119479.41 0.100263834
+Not enough water for your plants to survive! Please water now.
+1478119480.58 0.100232124329
+Not enough water for your plants to survive! Please water now.
+1478119481.74 0.100250005722
+Not enough water for your plants to survive! Please water now.
+1478119482.9 0.100233078003
+Not enough water for your plants to survive! Please water now.
+1478119484.07 0.100239992142
+Not enough water for your plants to survive! Please water now.
+1478119485.23 0.100270986557
+Not enough water for your plants to survive! Please water now.
+1478119486.39 0.100207090378
+Not enough water for your plants to survive! Please water now.
+1478119487.52 0.100250005722
+Not enough water for your plants to survive! Please water now.
+1478119488.68 0.100227832794
+Not enough water for your plants to survive! Please water now.
+1478119489.84 0.100235939026
+Not enough water for your plants to survive! Please water now.
+1478119491.01 0.100230932236
+Not enough water for your plants to survive! Please water now.
+1478119492.17 0.100200891495
+Not enough water for your plants to survive! Please water now.
+1478119493.3 0.100239992142
+Not enough water for your plants to survive! Please water now.
+1478119494.47 0.100260019302
+D
+D
+C
+C
+Not enough water for your plants to survive! Please water now.i
