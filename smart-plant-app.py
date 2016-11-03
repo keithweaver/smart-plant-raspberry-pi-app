@@ -5,7 +5,7 @@ from urllib.request import Request, urlopen
 GPIO.setmode(GPIO.BCM)
 
 def httpPost(url, postFields):
-    request = Request(url, urlencode(post_fields).encode())
+    request = Request(url, urlencode(postFields).encode())
     json = urlopen(request).read().decode()
     return json
 
@@ -24,7 +24,7 @@ def RCtime (PiPin):
 def upload(moisture):
     ENDPOINT = "https://smartiot.ca/rest/public/v1/plant/moisture/upload"
     post_fields = {'apikey': 'INSERT_YOUR_API_KEY','plantId':'INSERT_YOUR_PLANT_ID','moistureLevel': moisture}
-    result = httpPost(url,post_fields)
+    result = httpPost(ENDPOINT,post_fields)
     print(result)
 
 # Main program loop
