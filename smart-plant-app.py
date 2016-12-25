@@ -22,7 +22,7 @@ def RCtime (PiPin):
     return measurement
 
 def upload(moisture):
-    ENDPOINT = "https://smartiot.ca/rest/public/v1/plant/moisture/upload"
+    ENDPOINT = "https://ketihweaver.ca/rest/smart-tech/v1/plant/moisture/upload"
     post_fields = {'apikey': 'INSERT_YOUR_API_KEY','plantId':'INSERT_YOUR_PLANT_ID','moistureLevel': moisture}
     result = httpPost(ENDPOINT,post_fields)
     print(result)
